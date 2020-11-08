@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hossam Eldin Mahmoud</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">A passionate Cross-Platfrom Software Engineer from Egypt</h3>
 
 - 📫 How to reach me **hossameldinmi@gmail.com**
 
